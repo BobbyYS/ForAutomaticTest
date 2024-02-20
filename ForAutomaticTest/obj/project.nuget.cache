@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V5HUSJ6PwUWICbeWUdFQLHaLbH22C8WKRwwUsqMHgYzPfsfku4WaQj2HnHs9PIidP2qGe/0UvQiXMHukx7rVQw==",
+  "dgSpecHash": "KPlY59iY9SA/uLAWw+8B4/3erh3jf51LsPagBbWCuWQ5646sevAnsB+Koo+XZCd6ab9r703bs5wM8iWMjbyPZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj",
+  "projectFilePath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kfes9\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\kfes9\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

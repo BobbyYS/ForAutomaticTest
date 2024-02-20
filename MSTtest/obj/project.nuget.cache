@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+kr+mZ5otFa2lNMDl95INl/OIaWMhuJV64zVXwOk0CZa9C+BOEff18/TaM7KAPtBfHhLyOp3Sjui0wf1gsAXQ==",
+  "dgSpecHash": "KRGkIiXhcj/VJvUL5cqykfXBt9eNChX6fsxvVzHCm8cGiv5o/IvDsEraxatpPGfDHPJ1YvgIF66HjCJHplObVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\MSTtest\\MSTtest.csproj",
+  "projectFilePath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\MSTtest\\MSTtest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kfes9\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\kfes9\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

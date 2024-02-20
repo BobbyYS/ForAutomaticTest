@@ -18,6 +18,7 @@ namespace ForAutomaticTest.Controllers
             _logger = logger;
         }
 
+        //construct
         public WeatherForecastController()
         {
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\MSTtest\\MSTtest.csproj": {}
+    "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\MSTtest\\MSTtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\MSTtest\\MSTtest.csproj": {
+    "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\MSTtest\\MSTtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\MSTtest\\MSTtest.csproj",
+        "projectUniqueName": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\MSTtest\\MSTtest.csproj",
         "projectName": "MSTtest",
-        "projectPath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\MSTtest\\MSTtest.csproj",
+        "projectPath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\MSTtest\\MSTtest.csproj",
         "packagesPath": "C:\\Users\\kfes9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\MSTtest\\obj\\",
+        "outputPath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\MSTtest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

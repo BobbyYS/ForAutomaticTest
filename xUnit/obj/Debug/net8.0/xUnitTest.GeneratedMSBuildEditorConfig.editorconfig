@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = xUnitTest
-build_property.ProjectDir = C:\Users\kfes9\OneDrive\桌面\程式產生器for Work\ForAutomaticTest\xUnit\
+build_property.ProjectDir = C:\Users\kfes9\OneDrive\桌面\程式產生器for Work\AutomaticTest\ForAutomaticTest\xUnit\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

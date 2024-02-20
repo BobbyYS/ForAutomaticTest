@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj": {}
+    "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj": {
+    "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj",
+        "projectUniqueName": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj",
         "projectName": "ForAutomaticTest",
-        "projectPath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj",
+        "projectPath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\ForAutomaticTest\\ForAutomaticTest.csproj",
         "packagesPath": "C:\\Users\\kfes9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\ForAutomaticTest\\ForAutomaticTest\\obj\\",
+        "outputPath": "C:\\Users\\kfes9\\OneDrive\\桌面\\程式產生器for Work\\AutomaticTest\\ForAutomaticTest\\ForAutomaticTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
